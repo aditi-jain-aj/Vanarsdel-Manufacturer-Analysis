@@ -58,7 +58,7 @@ This interactive dashboard provided VanArsdel with insights that led to impactfu
 
 ## 🔗 Access the Dashboard
 
-Check out the interactive report [here]([https://lnkd.in/djQTVpYD](https://app.powerbi.com/view?r=eyJrIjoiYmQyYWMxMTEtMjc2NS00ZDIzLTk4ZDctMzk4YzQ1MmMyNDhkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)).
+Check out the interactive report [here](https://app.powerbi.com/view?r=eyJrIjoiYmQyYWMxMTEtMjc2NS00ZDIzLTk4ZDctMzk4YzQ1MmMyNDhkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ---
 
