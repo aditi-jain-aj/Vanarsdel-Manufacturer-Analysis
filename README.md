@@ -1,0 +1,1 @@
+# Vanarsdel-Manufacturer-Analysis
